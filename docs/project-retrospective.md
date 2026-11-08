@@ -58,12 +58,10 @@ Chronos-2는 고정 체크포인트를 미세조정 없이 사용했습니다. L
 4. 수치 차이를 발견하면 오차 크기뿐 아니라 원인과 재현 조건까지 기록합니다.
 5. 좋은 결과와 반대되는 결과를 함께 남겨, 설명의 범위를 실제 근거에 맞춥니다.
 
-## 출처와 공개 범위
+## 출처와 기록의 범위
 
-- [대회 안내](https://hackathon.imaginationgroup.co.kr/nongnet)
-- [공식 통합 안내](https://hackathon.imaginationgroup.co.kr/nongnet/notices?id=notice-final-current-guidance-20261102)
-- [공개 리더보드](https://hackathon.imaginationgroup.co.kr/nongnet/leaderboard)
-- [Amazon Chronos](https://github.com/amazon-science/chronos-forecasting)
-- [LightGBM](https://github.com/microsoft/LightGBM)
+대회 개요, 성적의 확인 시점, 평가식과 선택·검증 기준은 [저장소 내부의 대회 기록](competition-record.md)에 정리했습니다. 해당 문서의 [출처 목록](competition-record.md#sources)에 원래 페이지의 제목과 URL, 확인 시점을 함께 남겼습니다. 외부 페이지를 열지 못해도 이 회고를 이해하는 데 필요한 내용은 저장소 안에서 확인할 수 있습니다.
 
-프로젝트 수치는 보존된 로컬 실험·실행 기록과 2026년 11월 8일 23:46 KST의 리더보드 확인을 바탕으로 작성했습니다. 이 저장소에는 회고 문서만 공개하며 대회 원본 데이터, 정답, 제출 파일, 모델 가중치와 개인 문의 내용은 포함하지 않습니다. 공개 리더보드의 잠정 기록은 최종 검증 통과나 수상을 의미하지 않습니다.
+프로젝트 수치는 보존된 로컬 실험·실행 기록과 2026년 11월 8일 23:46 KST의 리더보드 확인을 바탕으로 작성했습니다. 저장소의 대회 기록은 직접 작성한 요약으로, 공식 웹페이지 원본이나 독립적인 성적 증명서는 아닙니다. 원문 사이트가 변경되거나 종료되면 이 기록만으로 당시 원문의 전체 내용이나 이후 판정을 확인할 수는 없습니다.
+
+이 저장소에는 회고 문서만 공개하며 대회 원본 데이터, 정답, 제출 파일, 모델 가중치와 개인 문의 내용은 포함하지 않습니다. 공개 리더보드의 잠정 기록은 최종 검증 통과나 수상을 의미하지 않습니다.
